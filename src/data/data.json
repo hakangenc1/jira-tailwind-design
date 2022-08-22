@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "title": "As a translator, I want integrate Crowdin webhook to notify translators about changed strings",
+    "tag": "Refactoring",
+    "number": "FC-7",
+    "person": "PG"
+  }
+}
